@@ -1,0 +1,284 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background: url(./ikonlar/aaa.jpg);
+}
+
+.ana_cerceve {
+    height: auto;
+    width: 930px;
+    margin: 0px auto;
+}
+
+.header {
+    height: 200px;
+    width: 930px;
+    background-color: black;
+    color: gold;
+}
+
+.header-sol {
+    height: 200px;
+    width: 200px;
+    float: left;
+}
+
+.header-sag {
+    float: left;
+    height: 200px;
+    width: 730px;
+
+}
+
+.header-sag h2 {
+    text-align: center;
+    font-size: 35px;
+}
+
+.orta {
+    margin-top: 0px;
+}
+
+.sol_taraf {
+    height: auto;
+    width: 200px;
+    float: left;
+}
+
+.sol_taraf .menu1 {
+    width: 200px;
+    height: 30px;
+    background-color: rgb(33, 73, 33);
+    text-align: center;
+    font-size: 24px;
+    color: rgb(219, 69, 0);
+}
+
+.sol_taraf .menu1_icerik {
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    text-align: center;
+    font-size: 18px;
+
+
+}
+
+.sol_taraf .menu1 p {
+    margin-top: 0px;
+    padding-top: 0px;
+    text-align: center;
+
+}
+
+.sol_taraf .menu1_icerik .one {
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: black;
+
+
+}
+
+.sol_taraf .menu1_icerik .two {
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: black;
+}
+
+.sol_taraf .menu1_icerik .three {
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: black;
+
+
+}
+
+.sol_taraf .menu1_icerik .four {
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: black;
+
+
+
+}
+
+.sol_taraf .menu2 {
+    width: 200px;
+    height: 30px;
+    background-color: rgb(33, 73, 33);
+    text-align: center;
+    font-size: 24px;
+
+    color: rgb(219, 69, 0)
+}
+
+.sol_taraf .menu2_icerik {
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    text-align: center;
+    font-size: 24px;
+    text-decoration: underline;
+    padding: 5px;
+
+}
+
+.sol_taraf .menu2_icerik .five {
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: black;
+
+
+}
+
+.sol_taraf .menu2_icerik .six {
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: black;
+
+
+}
+
+.sol_taraf .menu2_icerik .seven {
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: black;
+
+}
+
+.sol_taraf .menu2_icerik .eight {
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: black;
+
+}
+
+.sol_taraf .menu3 {
+    width: 200px;
+    height: 30px;
+    background-color: rgb(33, 73, 33);
+    text-align: center;
+    font-size: 24px;
+    color: rgb(219, 69, 0);
+}
+
+.sol_taraf .menu3_icerik {
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    text-align: center;
+    font-size: 24px;
+    text-decoration: underline;
+
+}
+
+.sol_taraf .menu3_icerik .nine {
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: black;
+
+
+}
+
+.sol_taraf .menu3_icerik .ten {
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: black;
+
+
+
+}
+
+.sol_taraf .menu3_icerik .eleven {
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: black;
+
+
+
+}
+
+.sol_taraf .menu3_icerik .twelve {
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: black;
+
+
+}
+
+.sag_taraf {
+    height: auto;
+    width: 730px;
+    float: right;
+}
+
+.sag_taraf .ust_menu {
+    width: 730px;
+    height: 30px;
+    background-color: black;
+}
+
+.sag_taraf .icerik {
+    width: 730px;
+    height: 670px;
+    background-color: black;
+    margin-bottom: 5px;
+    padding: 0px;
+    color: rgb(219, 69, 0);
+    background: url(./ikonlar/hg.jpg);
+}
+
+.sag_taraf .icerik h2 {
+    float: right;
+    color: rgb(10, 132, 214);
+}
+
+.sag_taraf .icerik pre {
+    margin-top: 0px;
+    padding-top: 50px;
+    text-align: left;
+}
+
+div>p {
+    margin-top: 0px;
+    padding: 0px;
+}
+
+#menu {
+    float: left;
+    list-style: none;
+    margin-top: 0px;
+}
+
+#menu li {
+    float: left;
+    margin-top: 0px;
+    padding: 0px;
+}
+
+
+#menu li a {
+    color: white;
+    text-decoration: none;
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 12px;
+}
+
+#menu a:hover {
+    background: orange;
+    border-radius: 15px;
+    color: red;
+}

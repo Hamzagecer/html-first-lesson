@@ -1,0 +1,40 @@
+.box{
+    width: 120px;
+    height: 120px;
+}
+#first{
+background-color:black;
+position: relative;
+top: 50px;
+border-radius: 10px;
+}
+#second{
+background-color: blue;
+position: relative;
+left: 60px;
+top: 25px;
+}
+#third{
+background-color: green;
+left: 60px;
+}
+#firstt{
+    background-color: red;
+    position: relative;
+    top: 20px;
+    left: 1000px;
+    
+    }
+    #secondd{
+    background-color: blue;
+    position: relative;
+    left: 970px;
+    top: 15px;
+    border-radius: 10px;
+   
+    }
+    #thirdd{
+    background-color: green;
+    position: relative;
+    left: 1000px;
+ }
